@@ -1,11 +1,12 @@
 import "./App.css";
+import StyledComponents from "./components/styled-comp/index";
 
 function App() {
   return (
     <>
       <div className="App">
         <header className="App-header">
-          <h1>Styled Components & Material UI</h1>
+          <StyledComponents />
         </header>
       </div>
     </>
