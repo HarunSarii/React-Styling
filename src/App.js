@@ -7,6 +7,7 @@ import StyledButton from "./components/material-ui/styled-button/StyledButton";
 import Typography from "./components/material-ui/typography/TypographyComp";
 import Wrapper from "./components/material-ui/wrapper/Wrapper";
 import Cards from "./components/material-ui/cards/Cards";
+import AppBarComp from "./components/material-ui/app-bar/AppBarComp";
 
 import { ThemeProvider, createMuiTheme } from "@material-ui/core/styles";
 import { orange, green } from "@material-ui/core/colors";
@@ -34,6 +35,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <Wrapper>
+        <AppBarComp />
         <div className="App">
           <header className="App-header">
             <Typography />
