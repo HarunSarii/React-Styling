@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+![react-styling](https://user-images.githubusercontent.com/75949382/123537780-e16c2200-d739-11eb-8958-9f2e10d547d6.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
